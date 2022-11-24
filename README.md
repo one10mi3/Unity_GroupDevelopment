@@ -13,9 +13,9 @@ Unityをつかって仮想空間で仮の兄弟になりきって
 * マルチサーバー環境
   
 Unity  
-  Standard Assets  
-  PUN2  
-  その他キャラクターや家などの素材  
+&nbsp;&nbsp;Standard Assets  
+&nbsp;&nbsp;PUN2  
+&nbsp;&nbsp;その他キャラクターや家などの素材  
 FireBase  
 blender  
   
