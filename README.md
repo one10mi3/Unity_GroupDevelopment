@@ -15,7 +15,7 @@ Unityをつかって仮想空間で仮の兄弟になりきって
 Unity  
   * Standard Assets
   * PUN2 
-  * その他キャラクターや家などの素材
+  * その他キャラクターや家などの素材  
 FireBase  
 blender  
   
